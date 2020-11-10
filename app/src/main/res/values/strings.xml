@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">UI testing</string>
+    <string name="text_mainactivity">MainActivity</string>
+    <string name="text_next">Next</string>
+    <string name="text_secondaryActivity">SecondActivity</string>
+    <string name="text_back">back</string>
 </resources>
